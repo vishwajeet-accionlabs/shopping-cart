@@ -1,0 +1,40 @@
+.menu {
+  margin-left: 45%;
+  margin-top: 15%;
+}
+.alignleft {
+  float: left;
+}
+.alignright {
+  float: right;
+}
+.aligncenter {
+  display: inline-block;
+  margin: 0 auto;
+}
+.img-thumb {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+.img-thumb-hover {
+  position: relative;
+  top: -25px;
+  left: -35px;
+  width: 500px;
+  height: auto;
+  display: block;
+  z-index: 999;
+}
+.img-container-div {
+  width: 100%;
+  overflow: hidden;
+}
+.img-thumb-div {
+  width: 30%;
+  float: left;
+}
+.img-div {
+  overflow: hidden;
+}
